@@ -1,0 +1,5 @@
+progress
+git+https://github.com/ildoonet/pytorch-randaugment
+git+https://github.com/wbaek/theconf.git
+wandb
+mlflow
